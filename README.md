@@ -28,7 +28,7 @@ git clone https://github.com/savagetech56/darknetudp && cd darknetudp && chmod +
  * Optional port exclude separated by coma, ex. 53,5300
 
 ## telegram
- > [magnu](https://t.me/ToxicSavage)
+ > [TOXIC SAVAGE](https://t.me/ToxicSavage)
 
 #
   > _made from pieces with ❤️_
